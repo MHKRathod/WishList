@@ -13,6 +13,7 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 ## Author
 
 -   Hari Krishna Rathod - follow me on 👇
+-facebook
 -   [GitHub](https://www.github.com/MHKRathod)
 -   [LinkedIn](https://www.linkedin.com/in/hari-krishna-rathod-8414b6204/)
 
