@@ -12,10 +12,9 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 
 ## Author
 
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
+-   Hari Krishna Rathod - follow me on 👇
+-   [GitHub](https://www.github.com/MHKRathod)
+-   [LinkedIn](https://www.linkedin.com/in/hari-krishna-rathod-8414b6204/)
 
 
 ## Live Link
@@ -29,7 +28,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/prakashsakari/wishlist.git
+  git clone https://github.com/MHKRathod/wishlist.git
 ```
 
 Open the project directory in a new window and run the html file
